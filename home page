@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>webpage</title>
+<link rel="stylesheet" href="style.css"> <!----linking the css file-->
+</head>
+<body>
+<header>
+<nav class="navbar">
+<h1 class="logo">SNAP-SNAP</h1> <!--for logo-->
+<ul class="menu">
+<li><a href="index.html">Home</a></li> <!----linking with other pages-->
+<li><a href="about.html">About</a></li>
+<li><a href="services.html">Services</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+<section class="para">
+<div class="content">
+<h2> Capture your moments here with us at<br> SNAP-SNAP</h2>
+<p>Snap-Snap consists of a team of skilled photographers who can fulfill your needs
+in terms of photography and provide you with awesome services. We are equipped with
+professional equipment’s with which we provide satisfactory photos and videos to our
+customers. We warmly welcome all the viewers to visit us.
+</p>
+<button><a href="about.html"> Know more about us</a></button>
+</div>
+<div class="grid-container"> <!----for the pictures to be displayed-->
+<div class="grid-item">
+<img src="monkey.jpg" width="300px" height="300px">
+</div>
+<div class="grid-item">
+<img src="ll.jpg" width="300px" height="300px">
+</div>
+<div class="grid-item">
+<img src="background2.jpg" width="300px" height="300px">
+</div>
+<div class="grid-item">
+<img src="monkey2.jpg" width="300px" height="300px">
+</div>
+</div>
+</body>
+</html>
