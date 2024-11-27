@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>webpage</title>
+<link rel="stylesheet" href="">
+<link rel="stylesheet" href="contact.css">
+</head>
+<body>
+<header>
+<nav class="navbar">
+<h1 class="logo">SNAP-SNAP</h1>
+<ul class="menu">
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="services.html">Services</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+<div class="contact-in">
+<div class="contact-map">
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3530.96987305379
+43!2d85.32897507614216!3d27.749075223648575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!
+4f13.1!3m3!1m2!1s0x39eb19375b661965%3A0x8c196c8e680284d2!2z4KS14KS_4KS1
+4KS4KS5IOCkleCkvuCkoOCkruCkvuCkoeCljOCkgg!5e0!3m2!1sne!2snp!4v17129829
+04616!5m2!1sne!2snp"
+width="100%" height="auto" style="border:0;" allowfullscreen="" loading="lazy"
+referrerpolicy="no-referrer-when-downgrade"></iframe> <!---html link of map-->
+</div>
+<div class="contact-form">
+<h2>Contact Us</h2>
+<form>
+<input type="text" placeholder="Name" class="contact-form-txt">
+<input type="text" placeholder="E-mail" class="contact-form-txt">
+<textarea placeholder="Message" class="contact-form-textarea"></textarea>
+<input type="submit" name="submit" class="contact-form-btn">
+</form>
+</div>
+</div>
+<footer> <!--for the footer-->
+<p> 2024 Snap-Snap. All rights reserved.</p>
+</footer>
+</body>
+</html>
