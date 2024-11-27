@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>webpage</title>
+<link rel="stylesheet" href="services.css">
+</head>
+<body>
+<header>
+<nav class="navbar">
+<h1 class="logo">SNAP-SNAP</h1>
+<ul class="menu">
+<li><a href="index.html">Home</a></li> <!---linking with other pages-->
+<li><a href="about.html">About</a></li>
+<li><a href="services.html">Services</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+<section class="service-section">
+<h2 >OUR SERVICES</h2>
+<div class="cardcontainer"> <!---for the pictures and its description-->
+<div class="card">
+<img src="wedding.jpg">
+<div class="cardcontent">
+<h3>Wedding Photography</h3>
+<p> We offer reasonable wedding photography services with various price and
+packages according to your needs</p>
+</div>
+</div>
+<div class="card">
+<img src="portrait.jpg">
+<div class="cardcontent">
+<h3>Portrait Photography</h3>
+<p> We offer portarit photography services for the individuals who are seeking to
+capture their personality in a frame. </p>
+</div>
+</div>
+<div class="card">
+<img src="event.jpg">
+<div class="cardcontent">
+<h3>Event Photography</h3>
+<p> We have our team ready for any sort of events and have variety of price and
+packages for it. </p>
+</div>
+</div>
+<div class="card">
+<img src="nature.jpg">
+<div class="cardcontent">
+<h3>Nature</h3>
+<p> We have got a bundle of pictures that have captured the beauty of nature</p>
+</div>
+</div>
+</div>
+</section>
+</body>
+</html>
