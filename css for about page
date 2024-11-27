@@ -1,0 +1,163 @@
+*
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+body
+{
+height: 100vh;
+background: url("background2.webp");
+background-position: center;
+background-size: cover;
+}
+header
+{
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+padding: 20px;
+background: rgba(0, 0, 0, 0.5); /* Adding background color with transparency */
+}
+header .navbar
+{
+display: flex;
+align-items: center;
+max-width: 1700px;
+margin: 0 auto;
+justify-content: space-between;
+}
+.navbar .menu
+{
+display: flex
+;
+gap: 50px
+;
+list
+-style: none
+;
+
+}
+.navbar h1 {
+color: white
+;
+text
+-decoration: none
+;
+
+font
+-size: 40px
+;
+
+}
+.navbar
+a
+{
+color: white
+;
+text
+-decoration: none
+;
+
+font
+-size: 20px
+;
+
+}
+.navbar {
+border
+-bottom: 5px solid red
+;
+
+}
+ul :hover {
+color: lightpink
+;
+
+}
+.about
+-section
+{
+padding: 20px
+;
+margin
+-top: 100px;
+}
+.about
+-section h2
+{
+color
+: lightsalmon
+;
+
+font
+-size: 30px
+;
+
+text
+-align: center
+;
+
+margin
+-bottom: 100px
+;
+
+}
+.para {
+display: flex
+;
+justify
+-content: center
+;
+
+align
+-items: center
+;
+height: 300px;
+}
+.para .content {
+color: white
+;
+max
+-width: 1200px
+;
+width: 100%;
+}
+h3{
+margin
+-bottom: 20px;
+color
+: lightpink
+;
+
+}p{
+margin
+-bottom: 30px;
+color: white
+;
+
+}
+.para .content h3 {
+font
+-size: 30px
+;
+
+}
+.para .content
+p
+
+{
+font
+-weight: 300
+;
+margin
+-top: 15px
+;
+
+max
+-width: 100%
+;
+
+}
