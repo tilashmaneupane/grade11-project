@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>webpage</title>
+<link rel="stylesheet" href="about.css">
+</head>
+<body>
+<header>
+<nav class="navbar">
+<h1 class="logo">SNAP-SNAP</h1>
+<ul class="menu">
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="services.html">Services</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+<section class="about-section">
+<h2 >ABOUT US</h2>
+<section class="para">
+<div class="content">
+<h3>Our Story</h3>
+<p>Founded by Mr. Ram Hari in the year 2020AD, Snap-Snap has evolved into a
+successful business which has gained the support of many people.
+We have captured countless memories for our clients and have achieved positive
+feedbacks. All our clients have been very satisfied with our work
+and have praised us for our team spirit as well as our team work. Here we believe
+that everything is possible when we are united and we try to give
+the clients what they actually want. We also prefer communicating with the
+clients about their ideas so that we can provide them the best services.
+</p>
+<h3>Our Mission</h3>
+<p>We aim to capture the special moments and also try to capture the essence of
+the event. During wedding and some other cultural events we try to capture the
+uniqueness of the ritual. We also give preference to the guests who are
+attending the event and try to capture each and everyone that has attended
+the event.</p>
+<h3>What sets us apart</h3>
+<p> What sets us apart is our unique blend of technical expertise, artistic vision,
+and personalized service. We understand that every client is unique, and we strive to
+tailor our approach to meet their individual needs and preferences. We also pay great
+attention to the essence of the event and act according to the need of the event</p>
+</div>
+</section>
+</section>
+</body>
+</html>
